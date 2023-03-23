@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pizza>
+   <menu>
+        <pizza_name>Classic Spinach Pizza Americana</pizza_name>
+        <pizza_size>Regular</pizza_size>
+        <pizza_price>₱1,149.00</pizza_price>
+        <pizza_brand>Shakey's Pizza</pizza_brand>
+        <pizza_description>The perfect balance of your creamy spinach and a blend of different cheeses.</pizza_description>
+   </menu>
+   <PROMOS>
+        <PROMO id = "1">Exclusively Deal</PROMO>
+        <PROMO id = "2">Limited Time Offers</PROMO>
+        <PROMO id = "3">Pizza Deals</PROMO>
+        <PROMO id = "4">Solo Meals</PROMO>
+        <PROMO id = "5">Mega Sale Pizza</PROMO>
+    </PROMOS>
+
+    <menu>
+        <pizza_name>Roast Beef Pizza</pizza_name>
+        <pizza_size>Regular</pizza_size>
+        <pizza_price>₱409.00</pizza_price>
+        <pizza_brand>Greenwhich</pizza_brand>
+        <pizza_description>Indulge in succulent roast beef, tender and done just right, now on a pizza! Made even more delicious with our Rosemary and Mushroom sauce!</pizza_description>
+   </menu>
+   <PROMOS>
+        <PROMO id = "1">Exclusively Deal</PROMO>
+        <PROMO id = "2">Limited Time Offers</PROMO>
+        <PROMO id = "3">Pizza Deals</PROMO>
+        <PROMO id = "4">Solo Meals</PROMO>
+        <PROMO id = "5">Mega Sale Pizza</PROMO>
+    </PROMOS>
+
+    <menu>
+        <pizza_name>Spinach and Glazed Bacon Pizza Americana</pizza_name>
+        <pizza_size>Regular</pizza_size>
+        <pizza_price>₱1,149.00</pizza_price>
+        <pizza_brand>Pizza Galor</pizza_brand>
+        <pizza_description>Spinach and Glazed Bacon Americana: SUPERSIZED 18-inch Fresh, Flavourful and Creamy spinach pizza loaded with sweet glazed bacon and a blend of different cheeses.</pizza_description>
+   </menu>
+   <PROMOS>
+        <PROMO id = "1">Exclusively Deal</PROMO>
+        <PROMO id = "2">Limited Time Offers</PROMO>
+        <PROMO id = "3">Pizza Deals</PROMO>
+        <PROMO id = "4">Solo Meals</PROMO>
+        <PROMO id = "5">Mega Sale Pizza</PROMO>
+    </PROMOS>
+
+    <menu>
+        <pizza_name>Spinach and Mushroom Pizza Americana</pizza_name>
+        <pizza_size>Regular</pizza_size>
+        <pizza_price>₱1,149.00</pizza_price>
+        <pizza_brand>Pizza Hut</pizza_brand>
+        <pizza_description>Spinach and Mushroom Americana: SUPERSIZED 18-inch Fresh, Flavourful and Creamy spinach pizza prepared with savory mushrooms, and a blend of different cheeses.</pizza_description>
+   </menu>
+   <PROMOS>
+        <PROMO id = "1">Exclusively Deal</PROMO>
+        <PROMO id = "2">Limited Time Offers</PROMO>
+        <PROMO id = "3">Pizza Deals</PROMO>
+        <PROMO id = "4">Solo Meals</PROMO>
+        <PROMO id = "5">Mega Sale Pizza</PROMO>
+    </PROMOS>
+
+    <menu>
+        <pizza_name>Spinach and Shrimp Pizza Americana</pizza_name>
+        <pizza_size>Regular</pizza_size>
+        <pizza_price>₱1,149.00</pizza_price>
+        <pizza_brand>Dominos' Pizza</pizza_brand>
+        <pizza_description>Spinach and Shrimp Americana: SUPERSIZED 18-inch Fresh, Flavourful and Creamy spinach pizza made with succulent shrimps, and a blend of different cheeses.</pizza_description>
+   </menu>
+   <PROMOS>
+        <PROMO id = "1">Exclusively Deal</PROMO>
+        <PROMO id = "2">Limited Time Offers</PROMO>
+        <PROMO id = "3">Pizza Deals</PROMO>
+        <PROMO id = "4">Solo Meals</PROMO>
+        <PROMO id = "5">Mega Sale Pizza</PROMO>
+    </PROMOS>
+</pizza>
